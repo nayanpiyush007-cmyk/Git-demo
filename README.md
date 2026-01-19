@@ -1,4 +1,4 @@
 # Git-demo
 first git repo.
 <br>
-Author-Piyush
+Author-Piyush Nayan
